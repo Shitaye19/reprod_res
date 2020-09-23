@@ -2,7 +2,7 @@
 title: "Practice_adding_file"
 author: "Nicole Szeluga"
 date: "9/23/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
