@@ -21,3 +21,9 @@ sd(data)
 ```
 
 will we be writing on thr same line?
+Range of the first variable
+
+```{r}
+range(data)
+```
+
