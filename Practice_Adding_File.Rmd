@@ -18,3 +18,11 @@ mean(data)
 will we be writing on the same line?
 **Just Writing Stuff**
 ------------------------------------
+
+<br>
+<br>
+<br>
+```{r}
+## Write Code Here
+```
+
