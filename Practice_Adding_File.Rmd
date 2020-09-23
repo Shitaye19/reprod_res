@@ -15,4 +15,6 @@ Desctiptive statistical analysis of first expriment
 mean(data)
 ```
 
-will we be writing on thr same line?
+will we be writing on the same line?
+**Just Writing Stuff**
+------------------------------------
