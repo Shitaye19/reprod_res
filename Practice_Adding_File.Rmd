@@ -9,4 +9,9 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Desctiptive statistical analysis of first expriment
+
+```{r}
+mean(data)
+```
 
