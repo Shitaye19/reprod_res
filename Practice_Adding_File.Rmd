@@ -30,4 +30,15 @@ range(data)
 
 will we be writing on the same line?
 **Just Writing Stuff**
+<<<<<<< HEAD
+=======
+------------------------------------
+
+<br>
+<br>
+<br>
+```{r}
+## Write Code Here
+```
+>>>>>>> 44b7b65557b6c53cff7f49d2df2e18da352ca9b2
 
